@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/bin/Debug/net6.0/Reku-rsif_extension_metotlar
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/bin/Debug/net6.0/Reku-rsif_extension_metotlar.deps.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/bin/Debug/net6.0/Reku-rsif_extension_metotlar.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/bin/Debug/net6.0/Reku-rsif_extension_metotlar.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/bin/Debug/net6.0/Reku-rsif_extension_metotlar.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/refint/Reku-rsif_extension_metotlar.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/Reku-rsif_extension_metotlar.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/Reku-rsif_extension_metotlar/obj/Debug/net6.0/ref/Reku-rsif_extension_metotlar.dll
